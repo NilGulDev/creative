@@ -1,21 +1,15 @@
 <?php
 
-error en  linea
-  
-  // print_r('error');
-   
-  
-  
-  
-  
-  
-  comething;
-  ;
+  # generamos edición de archivo
 
-eci nsd; + =1
+  #modificamos el contenido
 
-  
-  
-  
+  $variable = 10;
+
+  $variable = 'Error lexico';
+
+  // comentario adicional
+
+  echo $variable;
 
 ?>
