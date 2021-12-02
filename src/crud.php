@@ -6,9 +6,7 @@
 
   $variable = 10;
 
-  //print_r($variable);
-
-  variable = 'Error lexico';
+  $variable = 'Error lexico';
 
   // comentario adicional
 
